@@ -1,0 +1,9 @@
+*.orig
+*.rej
+*.diff
+*.o
+.ccls-cache
+dmenu
+dmenu_path
+dmenu_run
+stest
